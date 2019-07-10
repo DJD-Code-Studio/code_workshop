@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+D:\myGitRepos\djd-code-studio.github.io\code-practice\ADA\ada_baby_steps.gpr
+20190109064142
+[BOUND OBJECT FILES]
+D:\myGitRepos\djd-code-studio.github.io\code-practice\ADA\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LD:\myGitRepos\djd-code-studio.github.io\code-practice\ADA\obj\
+-LD:\myGitRepos\djd-code-studio.github.io\code-practice\ADA\obj\
+-LD:/apps/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
+-static
+-static-libgcc
+D:/apps/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

@@ -1,0 +1,3 @@
+main.adb:4:07: unconstrained subtype not allowed (need initialization)
+main.adb:4:07: provide initial value or explicit array bounds
+main.adb:9:11: prefix of "Image" attribute must be a scalar type or a scalar object name
